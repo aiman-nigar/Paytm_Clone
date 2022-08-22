@@ -14,6 +14,6 @@ This one is a paytm clone which I've made using Tailwind CSS.
 ![Project-1 Tailwind ScreenShot:](SS1.png "Paytm Clone")
 
 ### As this one was my first Tailwind project so the time I've taken is:-
-> - 13 Hour 30 minutes
+> 13 Hour 30 minutes
 
 > ### The link to the site: [Paytm clone](https://aim-paytm-clone.netlify.app/)
